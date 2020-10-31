@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1601314648 source:d:\usuarios\alumno\descargas\algo\bookstore\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+
+1603468845 source:c:\users\usuario\desktop\proyecto bookstore\bookstore\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	"Lista.h"
+
+1603479680 source:c:\users\usuario\desktop\proyecto bookstore\bookstore\src\lista.cpp
+	"Lista.h"
+
+1603477699 c:\users\usuario\desktop\proyecto bookstore\bookstore\include\lista.h
+	<cstddef>
+	<cassert>
+
+1604177395 source:c:\users\marco_72wd0vg\desktop\facu 2020\anal algoritmos\proyecto bookstore\bookstore\src\lista.cpp
+	"Lista.h"
+
+1604177354 c:\users\marco_72wd0vg\desktop\facu 2020\anal algoritmos\proyecto bookstore\bookstore\include\lista.h
+	<cstddef>
+	<cassert>
+	<iostream>
+	<fstream>
+	<clocale>
+
+1604177334 source:c:\users\marco_72wd0vg\desktop\facu 2020\anal algoritmos\proyecto bookstore\bookstore\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	"Lista.h"
+
+1604008101 source:c:\users\marco_72wd0vg\desktop\facu 2020\anal algoritmos\proyecto bookstore\bookstore\src\libros.cpp
+	"Libros.h"
+	"Lista.h"
+
+1604008135 c:\users\marco_72wd0vg\desktop\facu 2020\anal algoritmos\proyecto bookstore\bookstore\include\libros.h
+	"Lista.h"
+
